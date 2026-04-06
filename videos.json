@@ -1,13 +1,1416 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your \u003ca href=\"/youtube/v3/getting-started#quota\"\u003equota\u003c/a\u003e.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your \u003ca href=\"/youtube/v3/getting-started#quota\"\u003equota\u003c/a\u003e.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "FevfxGbtbI6gnFuZgmjebnTQ5aE",
+  "nextPageToken": "EAAaHlBUOkNCNGlFRVEwUVRJNU1qQTJSamczTVVZeVJEWQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ujOV9a_0KdVv_jhBejVpny2sTIA",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLjU4TjZIeGJ3dUE4",
+      "snippet": {
+        "publishedAt": "2026-03-23T06:07:48Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "삶이 바뀌는 공간을 디자인합니다. BUMBLEBEE DESIGN.",
+        "description": "\"공간을 바꾸는 것이 아니라, 삶을 다시 설계하는 일입니다.\"\n범블비디자인의 공간은,\n사용하는 사람의 방식, 감각, 그리고 삶의 흐름까지 함께 디자인하여,\n\"나 답게 살아가는 공간\"을 만듭니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/58N6HxbwuA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/58N6HxbwuA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/58N6HxbwuA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/58N6HxbwuA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/58N6HxbwuA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "58N6HxbwuA8"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MfLHt0oO1Z1-KplT59zfzn-D0yU",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLk5DZk1WWloxUDBn",
+      "snippet": {
+        "publishedAt": "2022-07-13T03:50:42Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "\"구조 변경하길 잘했어요\" 욕실&세탁실 구조 변경 인테리어",
+        "description": "반포자이 90py 고객 인터뷰 영상입니다.\n-\nDifferent Classes with 범블비디자인!\n\n범블비디자인 인스타그램\n범블비디자인 홈페이지\n블로그\n범블비디자인 블로그\n\n배경음악: Rainforest - Infraction (CC-BY) Music provided by Free Sound Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCfMVZZ1P0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCfMVZZ1P0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCfMVZZ1P0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NCfMVZZ1P0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NCfMVZZ1P0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NCfMVZZ1P0g"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0UuJb8-8rvbxnh6SK3BaCXezDIk",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLk42b0w5bThVRVdB",
+      "snippet": {
+        "publishedAt": "2022-07-13T03:08:30Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "\"기준 자체가 달랐어요\" 반포자이 90평 인테리어",
+        "description": "반포자이 90평 아파트 인테리어 고객 후기 인터뷰 영상입니다.\n-\nDifferent Classes with 범블비디자인!\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeede...\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6oL9m8UEWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6oL9m8UEWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6oL9m8UEWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N6oL9m8UEWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N6oL9m8UEWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N6oL9m8UEWA"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c1rxNGvwXLGp8jMhPwbSvWM4PXQ",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLllFc0NRMFlYOW4w",
+      "snippet": {
+        "publishedAt": "2022-06-24T07:31:17Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 반포자이 90py 인테리어",
+        "description": "범블비디자인 반포자이 90py 인테리어 영상입니다.\n-\nDifferent Classes with 범블비디자인\n-\n-배경음악: Scott Buckley - Childhood (CC-BY)\n-\n#반포자이\n#반포자이인테리어\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeede...\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YEsCQ0YX9n0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YEsCQ0YX9n0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YEsCQ0YX9n0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YEsCQ0YX9n0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YEsCQ0YX9n0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YEsCQ0YX9n0"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DiQEvfBOX9lHgIi07VVQkepCuCA",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLnV4VFhmcHRpRUZJ",
+      "snippet": {
+        "publishedAt": "2022-06-22T05:30:30Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 타워팰리스 102py 인테리어",
+        "description": "범블비디자인 타워팰리스 102py 인테리어 영상입니다.\n-\nDifferent Classes with 범블비디자인\n-\n-배경음악: Art Classic- 2B Studio (CC-BY)\n-\n#타워팰리스 \n#타워팰리스인테리어\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeede...\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uxTXfptiEFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uxTXfptiEFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxTXfptiEFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uxTXfptiEFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uxTXfptiEFI"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bQSxaWMOlkyaHGV2YVQloBH-PTY",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLjlSdGtLTzdHcXpZ",
+      "snippet": {
+        "publishedAt": "2022-04-19T02:52:08Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "\"신혼부부의 로망\" 양재 신영체르니 인테리어",
+        "description": "양재 신영체르니 인테리어 후기 고객 인터뷰 영상입니다.\n-\nDifferent Classes with 범블비디자인!\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeede...\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9RtkKO7GqzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9RtkKO7GqzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9RtkKO7GqzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9RtkKO7GqzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9RtkKO7GqzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9RtkKO7GqzY"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zr8NETZYSuBLp5_XC3dFJnh-Yjc",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLjJmeTdBTGJTZUM4",
+      "snippet": {
+        "publishedAt": "2022-04-12T07:45:45Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "\"소개시켜 드리고 싶어요.\" 하남현장 고객 인터뷰",
+        "description": "하남현장 고객 후기 인터뷰 영상입니다.\n-\nDifferent Classes with 범블비디자인!\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeede...\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2fy7ALbSeC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2fy7ALbSeC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fy7ALbSeC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2fy7ALbSeC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2fy7ALbSeC8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2fy7ALbSeC8"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aIrU-NPINzxaTXyxSgltqq0Kors",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLmJHZ2xydDVZR1Y0",
+      "snippet": {
+        "publishedAt": "2021-06-11T06:38:16Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 성복역롯데캐슬클라시엘 41py 인테리어",
+        "description": "범블비디자인 성복역롯데캐슬클라시엘 41py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeede...\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bGglrt5YGV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bGglrt5YGV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bGglrt5YGV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bGglrt5YGV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bGglrt5YGV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bGglrt5YGV4"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CMogNySYT7nlQMCLOqR9gNXIU3c",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLm4zaGxTdDFOd0tB",
+      "snippet": {
+        "publishedAt": "2021-06-10T02:57:03Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 반포아크로리버파크 52py 인테리어",
+        "description": "범블비디자인 반포아크로리버파크 52py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n3hlSt1NwKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n3hlSt1NwKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3hlSt1NwKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n3hlSt1NwKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n3hlSt1NwKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n3hlSt1NwKA"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Bqn9XfQnPPL37Qy5axZFXFEjNwE",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLmVYaVFKNkV6UEE0",
+      "snippet": {
+        "publishedAt": "2021-06-10T02:50:51Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 반포자이 60py 인테리어",
+        "description": "범블비디자인 반포자이 60py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eXiQJ6EzPA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eXiQJ6EzPA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXiQJ6EzPA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eXiQJ6EzPA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eXiQJ6EzPA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eXiQJ6EzPA4"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KUTvfqBpPmRUILA3Hi2FM05aHZM",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLkRoNGFEcDZmWkRr",
+      "snippet": {
+        "publishedAt": "2021-05-21T08:55:30Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 반포자이 90py 인테리어",
+        "description": "범블비디자인 반포자이 90py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dh4aDp6fZDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dh4aDp6fZDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dh4aDp6fZDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dh4aDp6fZDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dh4aDp6fZDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dh4aDp6fZDk"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fdaRb5xAYpLjm0XZ8NjrDCmG85Y",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLkZkSndQVHpSR3kw",
+      "snippet": {
+        "publishedAt": "2021-05-14T07:56:32Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 반포자이 60py 인테리어",
+        "description": "범블비디자인 반포자이 60py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FdJwPTzRGy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FdJwPTzRGy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FdJwPTzRGy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FdJwPTzRGy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FdJwPTzRGy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FdJwPTzRGy0"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6V_yVeEo-ISWyPX_IERqwJs-BxY",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLmRyQjF0T1JROTJn",
+      "snippet": {
+        "publishedAt": "2021-04-08T07:24:40Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "\"삶에 위로가 되는 공간\" 롯데캐슬 인테리어",
+        "description": "롯데캐슬 41py 인테리어 고객 후기 인터뷰 영상입니다.\n-\nDifferent Classes with 범블비디자인!\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/drB1tORQ92g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/drB1tORQ92g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/drB1tORQ92g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/drB1tORQ92g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/drB1tORQ92g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "drB1tORQ92g"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UhCAX787hpk_F0XGhvha6uDPDZw",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLnJISE8zN19jNjlR",
+      "snippet": {
+        "publishedAt": "2020-08-26T08:39:59Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "\"레벨업, 라이프스타일\" 도곡한라비발디 인테리어",
+        "description": "도곡한라비발디 49py 인테리어 고객 후기 인터뷰 영상입니다.\n-\nDifferent Classes with 범블비디자인!\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHHO37_c69Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHHO37_c69Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHHO37_c69Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rHHO37_c69Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rHHO37_c69Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rHHO37_c69Q"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yff6_82tR8RiEPHrDBTR8f1hF3U",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLll0TFNyc3ZGU2tJ",
+      "snippet": {
+        "publishedAt": "2020-07-08T08:32:47Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 정자동 타임브릿지 81py 인테리어",
+        "description": "범블비디자인 정자동 타임브릿지 81py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#오피스텔인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YtLSrsvFSkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YtLSrsvFSkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YtLSrsvFSkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YtLSrsvFSkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YtLSrsvFSkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YtLSrsvFSkI"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6lQ2DYItV9E-WQOrWoQu96E6PZQ",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLmhmZko1M09XdW9r",
+      "snippet": {
+        "publishedAt": "2020-06-23T05:39:41Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 반포자이 90py 인테리어",
+        "description": "범블비디자인 반포자이 90py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#아파트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hffJ53OWuok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hffJ53OWuok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hffJ53OWuok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hffJ53OWuok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hffJ53OWuok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hffJ53OWuok"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hpXGTeZ6mciVZBOms3NWhSEfpvU",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLkp1dkwtOXVjLTRB",
+      "snippet": {
+        "publishedAt": "2020-06-02T09:02:23Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 래미안 대치팰리스 인테리어",
+        "description": "범블비디자인 래미안 대치팰리스 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#래미안인테리어\n#아파트인테리어\n#확장형인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JuvL-9uc-4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JuvL-9uc-4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuvL-9uc-4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JuvL-9uc-4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JuvL-9uc-4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JuvL-9uc-4A"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rx8Ci8vroaMZ-CfirA6JYFLRfo0",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLlpxWTdTdU1iNVdZ",
+      "snippet": {
+        "publishedAt": "2020-04-24T03:31:48Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "\"첫인상부터, 범블비디자인\" 고덕 롯데베네루체아 인테리어",
+        "description": "고덕 롯데베네루체아 34평 인테리어 고객 후기 인터뷰 영상입니다.\n-\nDifferent Classes with 범블비디자인!\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZqY7SuMb5WY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZqY7SuMb5WY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZqY7SuMb5WY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZqY7SuMb5WY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZqY7SuMb5WY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZqY7SuMb5WY"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EzlVxJ1GtUtZFpdTm_bex7Bp5Zc",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLlYwQVU2Q0d2Qmxn",
+      "snippet": {
+        "publishedAt": "2020-04-01T08:55:21Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "여의도 더샵아일랜드파크 79PY",
+        "description": "범블비디자인 여의도 더샵아일랜드파크 79py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#고객만족인테리어\n#확장형인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V0AU6CGvBlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V0AU6CGvBlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V0AU6CGvBlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V0AU6CGvBlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V0AU6CGvBlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V0AU6CGvBlg"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sqFiXHd-pZFTFhb1gwexopBL6XM",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLndZMUl3dENDbm40",
+      "snippet": {
+        "publishedAt": "2020-03-18T10:12:42Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "[범블비디자인] 한남더힐 85py 인테리어",
+        "description": "범블비디자인 한남더힐 85py 인테리어 영상입니다!\n-\nDifferent Classes with 범블비디자인!\n-\n#최고급인테리어\n#럭셔리인테리어\n#하이엔드인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n#한남더힐\n#한남더힐인테리어\n-\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wY1IwtCCnn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wY1IwtCCnn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wY1IwtCCnn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wY1IwtCCnn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wY1IwtCCnn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wY1IwtCCnn4"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YOrMNEUTK2BxXADQnXVHC2YDUpo",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLjhNa08yd2pNWERr",
+      "snippet": {
+        "publishedAt": "2019-12-14T08:00:04Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "고급스러움의 상징 골드,  Your Premium Design!",
+        "description": "범블비디자인이 추천하는 골드 인테리어입니다!\r\nDifferent Classes with 범블비디자인!\n\nArchitects: AVIRAM-KUSHMIRSKI\nProject: TEL_AVIV_2018-3\n\n넓은 열린공간에 골드 금속과 블랙 컬러를 포인트로 사용한\n45평 해외 인테리어 사례입니다.\n\n#골드인테리어\n#블랙인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\r\n\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8MkO2wjMXDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8MkO2wjMXDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8MkO2wjMXDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8MkO2wjMXDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8MkO2wjMXDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8MkO2wjMXDk"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t8QwUxXKp_cFXri6DODLSxlt_0w",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLi1nVTY1aU94QkRj",
+      "snippet": {
+        "publishedAt": "2019-12-12T09:56:45Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "탁 트인 전망과 어울리는 화이트 인테리어,  Your Premium Design!",
+        "description": "범블비디자인이 추천하는 럭셔리 인테리어입니다!\r\nDifferent Classes with 범블비디자인!\n\nArchitects: Studio Arthur Casas\n\n브라질의 탁 트인 바다 전망과 어울리는\n석재타일 바닥과 깔끔한 화이트 톤의 벽과 천장 인테리어입니다.\n가구와 홈스타일링으로 럭셔리한 분위기를 연출한 해외 사례입니다.\n\n#화이트인테리어\n#타일인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\r\n\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gU65iOxBDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gU65iOxBDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gU65iOxBDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-gU65iOxBDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-gU65iOxBDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-gU65iOxBDc"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wAzkn8mo7-8xENiph_02PPbAikQ",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLkJTdmZ0Wm9lbzBr",
+      "snippet": {
+        "publishedAt": "2019-12-10T08:05:20Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "이색적인 타일 인테리어,  Your Premium Design!",
+        "description": "범블비디자인이 추천하는 white & Black 인테리어입니다!\r\nDifferent Classes with 범블비디자인!\n\n이색적인 타일을 사용한 인테리어 사례입니다.\n\n#타일인테리어\n#포인트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\r\n\n범블비디자인 채널\r\n\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BSvftZoeo0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BSvftZoeo0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BSvftZoeo0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BSvftZoeo0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BSvftZoeo0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BSvftZoeo0k"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PtTOAYwl27dnbjqLBJoWhHgzObM",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLl9wdkRuNGJBMzE4",
+      "snippet": {
+        "publishedAt": "2019-12-07T08:00:08Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "화이트와 블랙의 조화,  Your Premium Design!",
+        "description": "범블비디자인이 추천하는 white & Black 인테리어입니다!\r\nDifferent Classes with 범블비디자인!\n\n Architects: Raúl Sánchez\n\n화이트와 블랙의 컬러의 조화로 시크하고 세련된 분위기를 연출한 해외  인테리어 사례입니다.\n\n#블랙인테리어\n#화이트인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\r\n\n범블비디자인 채널\r\n\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_pvDn4bA318/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_pvDn4bA318/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_pvDn4bA318/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_pvDn4bA318/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_pvDn4bA318/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_pvDn4bA318"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U4vt6P2HXn4teweOJKj6J8E_Pjo",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLlJYLXBFYjZqdmlB",
+      "snippet": {
+        "publishedAt": "2019-12-05T14:34:46Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "집안의 분위기를 바꾸는 거울, Your Premium Design!",
+        "description": "범블비디자인이 추천하는 거울 인테리어입니다!\r\nDifferent Classes with 범블비디자인!\n\n Architects: Retallack Thompson\n\n집안 공간을 다양하게 연출할 수 있는 거울을 적절히 활용하여\n집 분위기를 확 바꾸는 해외사례 인테리어 입니다.\n\n#거울인테리어\n#그레이인테리어\n#포인트인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\r\n\n범블비디자인 채널\r\n\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RX-pEb6jviA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RX-pEb6jviA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RX-pEb6jviA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RX-pEb6jviA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RX-pEb6jviA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RX-pEb6jviA"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yBVSIPVnY_Hq-s90RHdYeowj44Y",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLktuRGF4bGtrOUtr",
+      "snippet": {
+        "publishedAt": "2019-12-03T08:00:05Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "우드와 루버 인테리어, Your Premium Design!",
+        "description": "범블비디자인이 추천하는 우드&루버 인테리어입니다!\r\nDifferent Classes with 범블비디자인!\n\n Architects: PL.architekci\n Location: POZNAŃ, POLAND\n\r\n천정 루버의 포인트가 매력적인 해외사례 스터디입니다.\n가벽 대신, 세개의 책장을 길게 설치하여 복도 공간을 만들고\n넉넉한 수납공간과 디자인까지 겸비한 인테리어입니다.\n\n#루버인테리어\n#우드인테리어\n#미니멀리즘인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KnDaxlkk9Kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KnDaxlkk9Kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KnDaxlkk9Kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KnDaxlkk9Kk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KnDaxlkk9Kk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KnDaxlkk9Kk"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qiarMXD3UZNfCmZupQl9M8qFLYA",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLnVhLTRQOVpWMVFV",
+      "snippet": {
+        "publishedAt": "2019-11-30T08:07:14Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "트랜디한 테라조 타일 , Your Premium Design!",
+        "description": "범블비디자인이 추천하는 테라조 타일 인테리어입니다!\r\nDifferent Classes with 범블비디자인!\n\n Architects: atelier du pont\n Location: rue etienne marcel, paris, france\n\n테라조 타일은 내구성이 뛰어나 관리가 용이합니다.\n다양한 컬러와 무늬가 있는 테라조 타일을 포인트로 사용하는 건 어떨까요?\n\n#테라조인테리어\n#주방인테리어\n#타일인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\r\n\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ua-4P9ZV1QU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ua-4P9ZV1QU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ua-4P9ZV1QU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ua-4P9ZV1QU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ua-4P9ZV1QU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ua-4P9ZV1QU"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CA6532cKn5paLe3SyxNBru6Uj9s",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLm1JSmNpa3NzckZN",
+      "snippet": {
+        "publishedAt": "2019-11-27T20:00:08Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "우드루버 인테리어, Your Premium Design!",
+        "description": "범블비디자인이 추천하는 우드 루버 인테리어입니다!\nDifferent Classes with 범블비디자인!\n\n Architects: Samuel Torres de Carvalho Arquitetura\n Project: Corpo Santo House\n Location: Lisbon, Portugal\n\n오래된 6층 건물의 구조와 모양을 살린 화이트와 우드 깔끔한 분위기를 연출했습니다. 특히, 마스터룸의 한쪽면을 우드루버로 제작하여 편안하고 아늑한 분위기가 느껴지는 인테리어입니다. \n\n#루버인테리어\n#우드인테리어\n#화이트인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mIJcikssrFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mIJcikssrFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mIJcikssrFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mIJcikssrFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mIJcikssrFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mIJcikssrFM"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q-4sK8kRBUgiKCpn8NxwirbmqSg",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLjJpS2Qxeld5a0Vr",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:00:01Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "최상층 럭셔리 인테리어, Your Premium Design!",
+        "description": "범블비디자인이 추천하는 블랙 포인트 럭셔리 인테리어입니다!\nDifferent Classes with 범블비디자인!\n\n Architects: Francesc Rife\n Project: BG Apartment\n Location: Seville, Spain\n\n노출 콘크리트를 유리로 감싼 전실과 야경이 아름다운 최상층에 위치한 럭셔리 인테리어입니다.\n\n#블랙인테리어\n#테라스인테리어\n#럭셔리인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2iKd1zWykEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2iKd1zWykEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2iKd1zWykEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2iKd1zWykEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2iKd1zWykEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2iKd1zWykEk"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iZlX-i7a0NB61TJE9f2p41dl8go",
+      "id": "VVVXSmkwSHhpM1AtQTFLeng2ZDVaV0VRLnMxQzkzbVktb3FV",
+      "snippet": {
+        "publishedAt": "2019-11-23T08:00:08Z",
+        "channelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "title": "복도에 설치한 천정형 수전, Your Premium Design!",
+        "description": "범블비디자인이 추천하는 독특한 구조 인테리어입니다!\nDifferent Classes with 범블비디자인!\n\n Architects: merooficina\n Project: Forte Apartment\n Location: Vila do Conde, Portugal\n\n복도 쪽에 놓인 공용 세면공간은 천정형 수전을 통해 사용할 수 있으며,\n기존 가벽을 철거하고 우드 폴딩도어로 공간을 분리한 해외사례입니다.\n\n#세면대인테리어\n#타일인테리어\n#우드인테리어\n#프리미엄인테리어\n#인테리어추천\n#범블비디자인\n#범블비디자인TV\n\n범블비디자인 채널\n인스타그램 Instagram : https://www.instagram.com/bumblebeedesign_official/\n홈페이지 Homepage : https://www.bumblebee-design.co.kr/\n네이버블로그 Blog : https://blog.naver.com/bumblebeedesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s1C93mY-oqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s1C93mY-oqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s1C93mY-oqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s1C93mY-oqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s1C93mY-oqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "범블비디자인",
+        "playlistId": "UUWJi0Hxi3P-A1Kzx6d5ZWEQ",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s1C93mY-oqU"
+        },
+        "videoOwnerChannelTitle": "범블비디자인",
+        "videoOwnerChannelId": "UCWJi0Hxi3P-A1Kzx6d5ZWEQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 83,
+    "resultsPerPage": 30
   }
 }
