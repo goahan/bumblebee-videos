@@ -10,12 +10,31 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch YouTube API
+
+      - name: Fetch YouTube API (all pages)
         env:
           API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
-          curl -s "https://www.googleapis.com/youtube/v3/playlistItems?key=${API_KEY}&playlistId=UUWJi0Hxi3P-A1Kzx6d5ZWEQ&part=snippet&maxResults=30" \
-            -o videos.json
+          PLAYLIST_ID="UUWJi0Hxi3P-A1Kzx6d5ZWEQ"
+          PAGE_TOKEN=""
+          ALL_ITEMS="[]"
+
+          while true; do
+            URL="https://www.googleapis.com/youtube/v3/playlistItems?key=${API_KEY}&playlistId=${PLAYLIST_ID}&part=snippet&maxResults=50"
+            if [ -n "$PAGE_TOKEN" ]; then
+              URL="${URL}&pageToken=${PAGE_TOKEN}"
+            fi
+
+            RESPONSE=$(curl -s "$URL")
+            ITEMS=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.dumps(json.load(sys.stdin).get('items',[])))")
+            ALL_ITEMS=$(echo "$ALL_ITEMS $ITEMS" | python3 -c "import sys,json; parts=sys.stdin.read().split(); print(json.dumps(json.loads(parts[0]) + json.loads(parts[1])))")
+            
+            PAGE_TOKEN=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin).get('nextPageToken',''))" 2>/dev/null)
+            if [ -z "$PAGE_TOKEN" ]; then break; fi
+          done
+
+          echo "{\"items\": $ALL_ITEMS}" > videos.json
+
       - name: Commit and push
         run: |
           git config user.name "github-actions"
