@@ -19,7 +19,7 @@ jobs:
           import urllib.request, json, os
 
           api_key = os.environ['API_KEY']
-          playlist_id = "UUWJi0Hxi3P-A1Kzx6d5ZWEQ"
+          playlist_id = "PLYa3Kda6HghorPMRGwL4cAM5F3U6L2bve"
           all_items = []
           page_token = ""
 
